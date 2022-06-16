@@ -11,7 +11,7 @@
   "download": "https://github.com/TheParlourPoet/Golarion-Unseen/archive/refs/heads/main.zip",
   "packs": [    
 {
-      "label": "Unseen-Bloodline-Spells",
+      "label": "Unseen-Golarion.Bloodline-Spells",
       "type": "Item",
       "name": "Bloodline-Spells",
       "path": "./packs/Bloodline-Spells.db",
