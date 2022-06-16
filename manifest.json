@@ -7,7 +7,7 @@
   "minimumCoreVersion": "0.9.0",
   "compatibleCoreVersion": "0.9.269",
   "url": "https://github.com/TheParlourPoet/Golarion-Unseen",
-  "manifest": "https://raw.githubusercontent.com/TheParlourPoet/Golarion-Unseen/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/TheParlourPoet/Golarion-Unseen/master/manifest.json",
   "download": "https://github.com/TheParlourPoet/Golarion-Unseen/archive/refs/heads/main.zip",
   "packs": [    
 {
